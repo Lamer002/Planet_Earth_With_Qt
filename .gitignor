@@ -1,0 +1,51 @@
+# Qt Creator
+*.autosave
+*.pro.user
+*.pro.user.*
+
+# Сборка
+build-*/
+*.build
+*.build-*
+*.build.*
+
+# Скомпилированные файлы
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+*.dylib
+
+# Qt
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+
+# Сборки
+release/
+debug/
+*.app
+*.app/
+
+# Системные
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Пользовательские файлы
+*.local
+*.log
+
+# Ресурсы 
+*.jpg
+*.png
+*.wav
